@@ -6,7 +6,7 @@ Cadastro de usuários e alunos com validação de email único.
 Login de usuários cadastrados.
 Acesso a uma área restrita.
 Alterar dados cadastrados.
-Excluir e edutar conta.
+Excluir e editar conta.
 
 ## Como usar o Sistema??
 É necessário ter o software XAMPP instalado e os serviços Apache e MySQL ativados.
